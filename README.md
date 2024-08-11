@@ -2,7 +2,7 @@
 
 Master's in Management with Data Analytics l Appian certified associate developer | Driving Data-Driven Decisions | Strategic Thinker | Passionate About Leveraging Analytics for Business Growth.
 
-![Profile Image]https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg
+![Profile Image](https://cdn.dribbble.com/users/13496/screenshots/1327531/analytics-app.gif)
 
 ## 🌐 Socials
 www.linkedin.com/in/
